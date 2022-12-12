@@ -1,0 +1,32 @@
+[
+  {
+    "name": "BLUE LOCK TOMO 5",
+    "price": 1250,
+    "img": "https://http2.mlstatic.com/D_NQ_NP_780352-MLA52315960085_112022-O.webp",
+    "description": "Manga de futbol",
+    "stock": 32,
+    "id": "hq4b2o3e47e",
+    "timestamp": "11/12/2022, 13:42:25",
+    "code": "6h2smeng3dn"
+  },
+  {
+    "name": "ONE PIECE MANGA TOMO 12",
+    "price": 1100,
+    "img": "https://static.wikia.nocookie.net/onepiece/images/8/8d/Volumen_12.png/revision/latest?cb=20130123231822&path-prefix=es",
+    "description": "El manga shonen mas popular del mundo",
+    "stock": 65,
+    "id": "e8o362kclljf",
+    "timestamp": "11/12/2022, 13:44:51",
+    "code": "a07abjqtcap"
+  },
+  {
+    "name": "VINLAND SAGA TOMO 8",
+    "price": 1000,
+    "img": "https://i.pinimg.com/564x/d1/51/8d/d1518d8afa71a9b3ae65b97e5df919cd.jpg",
+    "description": "Manga Seinen muy recomendado",
+    "stock": 47,
+    "id": "lj8o06oh3k9",
+    "timestamp": "11/12/2022, 13:52:14",
+    "code": "tiskgjkmh1n"
+  }
+]
